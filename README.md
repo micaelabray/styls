@@ -16,7 +16,7 @@ Contributors:
 - Alec Down, alecdown@gmail.com
 
 Images:
-![Styls Home](stylsHome.jpg)
-![Styls Login Page](stylsLogin.jpg)
-![Styls Registration Page](stylsRegistration.jpg)
-![Styls Closet Page](stylsCloset.jpg)
+![Styls Home](./client/public/assets/images/stylsHome.jpg)
+![Styls Login Page](./client/public/assets/images/stylsLogin.jpg)
+![Styls Registration Page](./client/public/assets/images/stylsRegistration.jpg)
+![Styls Closet Page](./client/public/assets/images/stylsCloset.jpg)
