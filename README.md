@@ -15,8 +15,8 @@ Contributors:
 - Paris Cornette, pariscornett@gmail.com
 - Alec Down, alecdown@gmail.com
 
-Images:
+Screenshots:
 ![Styls Home](./client/public/assets/images/stylsHome.jpg)
 ![Styls Login Page](./client/public/assets/images/stylsLogin.jpg)
-![Styls Registration Page](./client/public/assets/images/stylsRegistration.jpg)
-![Styls Closet Page](./client/public/assets/images/stylsCloset.jpg)
+![Styls Registration Page](./client/public/assets/images/StylsRegistration.jpg)
+![Styls Closet Page](./client/public/assets/images/styleCloset.jpg)
